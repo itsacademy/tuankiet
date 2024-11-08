@@ -1,0 +1,585 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.ftco {
+    position: relative;
+}
+
+.mb-3 {
+    font-size: 3rem;
+    color: #fff;
+    line-height: 1;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 900;
+}
+
+.pe1 {
+    color: white;
+}
+
+.container-section1 {
+    background-image: url(https://preview.colorlib.com/theme/trips/images/hero_1.jpg.webp);
+    min-height: 80vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+    z-index: -1;
+}
+
+.container-section1::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.3);
+    z-index: 1;
+}
+
+.container9 {
+    width: 100%;
+    height: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    z-index: 2;
+}
+
+.heading12 {
+    position: relative;
+    margin-bottom: 3rem !important;
+}
+
+.no {
+    line-height: 1.7;
+    color: #364d59 !important;
+    font-weight: 300;
+    font-size: 1rem;
+    font-family: "Work Sans", sans-serif;
+}
+
+.noo {
+    line-height: 1.7;
+    color: #364d59 !important;
+    font-weight: 300;
+    font-size: 1rem;
+    font-family: "Work Sans", sans-serif;
+}
+
+.Hthre {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-weight: normal;
+}
+
+.frein {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-weight: normal;
+}
+
+.row12 {
+    display: flex;
+    display: grid;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    place-items: center;
+}
+
+.dev {
+    margin-top: 25%;
+    height: auto;
+    text-align: center;
+    align-items: center;
+}
+
+
+
+.site-section2 {
+    position: relative;
+    padding: 7rem 0;
+}
+
+.container10 {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 992px) {
+    .container10 {
+        max-width: 1200px;
+    }
+}
+
+.sub-container10 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+
+
+.rer {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.row14 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: 6rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.heading17 {
+    position: relative;
+}
+
+.backdrop5 {
+    line-height: 1;
+    top: -20%;
+    position: absolute;
+    text-transform: uppercase;
+    z-index: -1;
+    font-weight: 900 !important;
+    font-size: 5rem;
+    color: #efefef;
+    transform: translateX(-50%);
+    left: 50%;
+}
+
+.subtitle3 {
+    color: #efba6c;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+.col19 {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.row-form-group {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 1rem;
+}
+
+.row-form-group1 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 1rem;
+}
+
+
+
+.form-control {
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    height: 55px;
+    background: #fff !important;
+    font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+
+
+.reptile {
+    padding: 0px 15px;
+    position: relative;
+}
+
+.reptile1 {
+    padding: 0px 15px;
+    position: relative;
+}
+
+@media screen and (max-width: 599px) {
+    .reptile1 {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 599px) {
+    .reptile {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}
+
+.skooby {
+    padding: 0px 15px;
+    width: 100%;
+}
+
+
+
+.form-contrl {
+    height: 181px;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+}
+
+.reel {
+    margin-right: auto;
+}
+
+.btn1 {
+    width: 100%;
+    margin: 0px 15px;
+    padding: 1rem 3rem;
+    background-color: #efba6c;
+    border-color: #efba6c;
+    border-radius: 0.25rem;
+}
+
+.btn1:hover {
+    background-color: #efba6c;
+    border-color: #efba6c;
+    color: white;
+}
+
+.d-blocks {
+    padding-left: 0;
+    width: 275px;
+    list-style: none;
+}
+
+.d-block {
+    display: block;
+    padding-bottom: 15px;
+}
+
+.row15 {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+    margin-right: -15px;
+    margin-left: -15px;
+
+}
+
+.no {
+    display: block;
+}
+
+.noob {
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+}
+
+.true {
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 300px;
+}
+
+
+
+.container5 {
+    padding: 7rem 0;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+.px {
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem;
+}
+
+.drex {
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: left;
+
+}
+
+.testimonials {
+    background: #efba6c;
+    padding: 50px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    position: relative;
+    display: flex !important;
+}
+
+.doo {
+    display: block;
+    width: 100%;
+}
+
+.mr {
+    margin-right: 1.5rem !important;
+}
+
+.owl-item {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.nub {
+    margin: 0 0 1rem;
+    padding: 0px 20px;
+}
+
+.sub-row7 {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    width: 1110px;
+}
+
+.row7 {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: 3rem;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+.heading15 {
+    position: relative;
+    text-align: center;
+}
+
+
+
+.fweh {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 83.33333%;
+    flex: 0 0 83.33333%;
+    max-width: 83.33333%;
+    justify-content: center;
+}
+
+.backdrop3 {
+    line-height: 1;
+    top: -20%;
+    position: absolute;
+    text-transform: uppercase;
+    z-index: -1;
+    font-weight: 900 !important;
+    font-size: 4.5rem;
+    color: #efefef;
+    left: 50%;
+    width: auto;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.fotter {
+    background-color: #f6f5f5 !important;
+    align-items: center;
+    padding: 9rem 0;
+}
+
+.row10 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-right: -15px;
+    margin-left: -15px;
+    width: 1120px;
+}
+
+.neow {
+    position: relative;
+}
+
+.sub-row9 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sub-row9>.e {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+    margin-bottom: 15px;
+}
+
+.container8 {
+    padding-right: 15px;
+    padding-left: 15px;
+    align-items: center;
+}
+
+.img0 {
+    width: 100%;
+    height: 100%;
+}
+
+.fotter .list1 li {
+    margin-bottom: 10px;
+}
+
+.footer-heading {
+    font-size: 16px;
+    margin-bottom: 1.5rem;
+}
+
+.row11 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.olele {
+    margin-left: auto;
+    align-items: center;
+}
+
+.reow {
+    font-size: 16px;
+}
+
+.sub-row-for-10 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.Pe {
+    display: flex;
+    align-items: center;
+}
+
+.play-btn1 {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    margin-right: 1rem;
+}
+
+.list1 {
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.res {
+    text-decoration: none;
+    color: #efba6c;
+}
+
+.res:hover {
+    color: #efba6c;
+}
+
+
+
+.btn2 {
+    font-size: .8rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    height: 55px;
+    padding: 0px 20px;
+    text-decoration: none;
+    color: #212529;
+    background-color: #efba6c;
+    border-color: #efba6c;
+    border-radius: 0.25rem;
+}
+
+
+
+.dub {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.Header {
+    width: 1200px;
+}
+
+.header-wrap {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.neom {
+    height: 55px;
+    background: #fff !important;
+    border: none;
+    border: 1px solid #e6e6e6;
+    border-radius: 0.25rem;
+}
+
+
+
+.collapse {
+    display: flex;
+    justify-content: end;
+}
+
+.skoob {
+    width: 73px;
+    height: 100%;
+}
+
+.navbar-nav {
+    padding: 0px 30px;
+}
+
+.navbar-brand {
+    padding: 0px 15px;
+}
+
+.nav-link {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.btn2.btn-primary:hover { color: black !important; /* Ensuring this color is applied */ 
+    background-color: #e98909 !important; /* If you also want to change the background color */ border-color: #212529 !important; /* Matching border color */ } /* General styling for the button */ .btn1 { font-size: .8rem; font-weight: 400; text-transform: uppercase; letter-spacing: .2rem; height: 55px; padding: 0px 20px; text-decoration: none; color: #212529; background-color: #efba6c; border-color: #efba6c; border-radius: 0.25rem; }
